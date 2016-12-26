@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonarqube.bss.lan:9000/" />
+          <token>dfcfdf99df9ddfcbdf9ddfcfdf9edf99dfc9dfc8dfc9dfcbdfcedf9bdf9bdf99dfcedf9adfcbdfcbdf9edf99dfcedf99df9cdf9ddfcedfc8df92dfcbdfcedfcfdfcfdfcbdf9fdf9cdf9ddfcbdf9edf99</token>
+          <option name="name" value="http://sonarqube.bss.lan:9000/" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
