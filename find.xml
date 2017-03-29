@@ -3,5 +3,25 @@
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
     <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*Scroller*" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*S</mask>
+      <mask>*Scrol</mask>
+      <mask>*Scroll</mask>
+      <mask>*Scrolle</mask>
+      <mask>*Scroller</mask>
+      <mask>*Scroller*</mask>
+    </recentFileMasks>
   </component>
 </application>
