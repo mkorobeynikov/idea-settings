@@ -1,0 +1,26 @@
+<code_scheme name="sbns">
+  <option name="LINE_SEPARATOR" value="&#13;&#10;" />
+  <option name="RIGHT_MARGIN" value="150" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  <option name="IF_BRACE_FORCE" value="3" />
+  <ADDITIONAL_INDENT_OPTIONS fileType="gsp">
+    <option name="INDENT_SIZE" value="2" />
+    <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    <option name="TAB_SIZE" value="2" />
+  </ADDITIONAL_INDENT_OPTIONS>
+  <ADDITIONAL_INDENT_OPTIONS fileType="sass">
+    <option name="INDENT_SIZE" value="2" />
+    <option name="TAB_SIZE" value="2" />
+  </ADDITIONAL_INDENT_OPTIONS>
+  <ADDITIONAL_INDENT_OPTIONS fileType="sql">
+    <option name="INDENT_SIZE" value="2" />
+    <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    <option name="TAB_SIZE" value="2" />
+  </ADDITIONAL_INDENT_OPTIONS>
+  <ADDITIONAL_INDENT_OPTIONS fileType="yml">
+    <option name="INDENT_SIZE" value="2" />
+    <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    <option name="TAB_SIZE" value="2" />
+  </ADDITIONAL_INDENT_OPTIONS>
+</code_scheme>
