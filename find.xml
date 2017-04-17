@@ -3,7 +3,7 @@
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
     <option name="SEARCH_SCOPE" value="Current File" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -26,6 +26,13 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.fg</mask>
+      <mask>*.f</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
