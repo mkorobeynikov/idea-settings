@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test*" />
     <recentFileMasks>
-      <mask>*S</mask>
-      <mask>*Scrol</mask>
-      <mask>*Scroll</mask>
-      <mask>*Scrolle</mask>
-      <mask>*Scroller</mask>
       <mask>*Scroller*</mask>
       <mask>.</mask>
       <mask>*.j</mask>
@@ -23,7 +19,6 @@
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>Dat</mask>
       <mask>Data</mask>
       <mask>Datab</mask>
@@ -34,6 +29,12 @@
       <mask>DatabaseC*</mask>
       <mask>DatabaseCh*</mask>
       <mask>DatabaseCha*</mask>
+      <mask>*</mask>
+      <mask>*T</mask>
+      <mask>*Te</mask>
+      <mask>*Tes</mask>
+      <mask>*Test</mask>
+      <mask>*Test*</mask>
     </recentFileMasks>
   </component>
 </application>
