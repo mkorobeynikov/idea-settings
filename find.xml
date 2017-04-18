@@ -3,22 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test*" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*Scroller*</mask>
-      <mask>.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.fg</mask>
       <mask>*.f</mask>
-      <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*.</mask>
       <mask>Dat</mask>
       <mask>Data</mask>
       <mask>Datab</mask>
@@ -29,12 +23,18 @@
       <mask>DatabaseC*</mask>
       <mask>DatabaseCh*</mask>
       <mask>DatabaseCha*</mask>
-      <mask>*</mask>
       <mask>*T</mask>
       <mask>*Te</mask>
       <mask>*Tes</mask>
       <mask>*Test</mask>
       <mask>*Test*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
