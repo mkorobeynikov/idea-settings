@@ -3,18 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*EditForm*" />
     <recentFileMasks>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.fg</mask>
-      <mask>*.f</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
-      <mask>Dat</mask>
-      <mask>Data</mask>
-      <mask>Datab</mask>
       <mask>Databa</mask>
       <mask>Databa*</mask>
       <mask>Databas*</mask>
@@ -27,13 +17,24 @@
       <mask>*Tes</mask>
       <mask>*Test</mask>
       <mask>*Test*</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
       <mask>*.groovy</mask>
+      <mask>*.groov</mask>
+      <mask>*.groo</mask>
+      <mask>*.gro</mask>
+      <mask>*.gr</mask>
+      <mask>*.g</mask>
+      <mask>*.</mask>
+      <mask>*e</mask>
+      <mask>*</mask>
+      <mask>*E</mask>
+      <mask>*Ed</mask>
+      <mask>*Edi</mask>
+      <mask>*Edit</mask>
+      <mask>*EditF</mask>
+      <mask>*EditFo</mask>
+      <mask>*EditFor</mask>
+      <mask>*EditForm</mask>
+      <mask>*EditForm*</mask>
     </recentFileMasks>
   </component>
 </application>
