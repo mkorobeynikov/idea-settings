@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Report.groovy" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -17,12 +17,24 @@
       <mask>*.po</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>po,</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*R</mask>
+      <mask>*Re</mask>
+      <mask>*Repo</mask>
+      <mask>*Repor</mask>
+      <mask>*Report</mask>
+      <mask>*Report.f</mask>
+      <mask>*Report.</mask>
+      <mask>*Report.gr</mask>
+      <mask>*Report.gro</mask>
+      <mask>*Report.groo</mask>
+      <mask>*Report.groov</mask>
+      <mask>*Report.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
