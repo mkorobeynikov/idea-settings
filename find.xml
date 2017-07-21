@@ -3,15 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*jrxml" />
     <recentFileMasks>
-      <mask>*Repo</mask>
-      <mask>*Repor</mask>
-      <mask>*Report.f</mask>
-      <mask>*Report.</mask>
-      <mask>*Report.gr</mask>
-      <mask>*Report.gro</mask>
-      <mask>*Report.groo</mask>
-      <mask>*Report.groov</mask>
       <mask>*Report.groovy</mask>
       <mask>*.po</mask>
       <mask>*.pom</mask>
@@ -29,11 +22,19 @@
       <mask>*Report*</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>*ю</mask>
+      <mask>*юо</mask>
+      <mask>*юок</mask>
+      <mask>*юокчьд</mask>
+      <mask>*</mask>
+      <mask>*j</mask>
+      <mask>*jr</mask>
+      <mask>*jrx</mask>
+      <mask>*jrxml</mask>
     </recentFileMasks>
   </component>
 </application>
