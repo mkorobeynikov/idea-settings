@@ -1,4 +1,0 @@
-/**
- * 
- * @author Maxim_Korobeynikov
- */
