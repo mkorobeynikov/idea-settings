@@ -4,16 +4,6 @@
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>po,</mask>
-      <mask>po</mask>
-      <mask>*D</mask>
       <mask>*Dt</mask>
       <mask>*Dto</mask>
       <mask>*Dto.</mask>
@@ -26,7 +16,6 @@
       <mask>*pom</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
@@ -34,6 +23,17 @@
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*M</mask>
+      <mask>*Ma</mask>
+      <mask>*Map</mask>
+      <mask>*Mapp</mask>
+      <mask>*Mappe</mask>
+      <mask>*Mapper</mask>
+      <mask>*Mapper.</mask>
+      <mask>*Mapper.j</mask>
+      <mask>*Mapper.ja</mask>
+      <mask>*Mapper.java</mask>
     </recentFileMasks>
   </component>
 </application>
