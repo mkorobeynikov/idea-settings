@@ -3,15 +3,8 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*Resource.java" />
     <recentFileMasks>
-      <mask>*Dt</mask>
-      <mask>*Dto</mask>
-      <mask>*Dto.</mask>
-      <mask>*Dto.j</mask>
-      <mask>*Dto.ja</mask>
-      <mask>*Dto.jav</mask>
-      <mask>*Dto.java</mask>
-      <mask>*.po</mask>
       <mask>*.pom</mask>
       <mask>*pom</mask>
       <mask>pom</mask>
@@ -34,6 +27,14 @@
       <mask>*Mapper.j</mask>
       <mask>*Mapper.ja</mask>
       <mask>*Mapper.java</mask>
+      <mask>*R.java</mask>
+      <mask>*Re.java</mask>
+      <mask>*Res.java</mask>
+      <mask>*Reso.java</mask>
+      <mask>*Resou.java</mask>
+      <mask>*Resour.java</mask>
+      <mask>*Resourc.java</mask>
+      <mask>*Resource.java</mask>
     </recentFileMasks>
   </component>
 </application>
