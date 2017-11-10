@@ -3,6 +3,7 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.pom</mask>
       <mask>*pom</mask>
@@ -14,7 +15,6 @@
       <mask>*.java</mask>
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*M</mask>
       <mask>*Ma</mask>
@@ -34,6 +34,7 @@
       <mask>*Resour.java</mask>
       <mask>*Resourc.java</mask>
       <mask>*Resource.java</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
