@@ -14,7 +14,6 @@
       <mask>*.java</mask>
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*M</mask>
       <mask>*Ma</mask>
@@ -34,6 +33,7 @@
       <mask>*Resour.java</mask>
       <mask>*Resourc.java</mask>
       <mask>*Resource.java</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
