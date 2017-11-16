@@ -3,25 +3,8 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*Test.groovy" />
     <recentFileMasks>
-      <mask>*.pom</mask>
-      <mask>*pom</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xm</mask>
-      <mask>*</mask>
-      <mask>*M</mask>
-      <mask>*Ma</mask>
-      <mask>*Map</mask>
-      <mask>*Mapp</mask>
-      <mask>*Mappe</mask>
-      <mask>*Mapper</mask>
-      <mask>*Mapper.</mask>
       <mask>*Mapper.j</mask>
       <mask>*Mapper.ja</mask>
       <mask>*Mapper.java</mask>
@@ -34,6 +17,24 @@
       <mask>*Resourc.java</mask>
       <mask>*Resource.java</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*T</mask>
+      <mask>*Te</mask>
+      <mask>*Tes</mask>
+      <mask>*Test</mask>
+      <mask>*Test.k</mask>
+      <mask>*Test.java</mask>
+      <mask>*Test.jav</mask>
+      <mask>*Test.ja</mask>
+      <mask>*Test.j</mask>
+      <mask>*Test.</mask>
+      <mask>*Test.g</mask>
+      <mask>*Test.gr</mask>
+      <mask>*Test.gro</mask>
+      <mask>*Test.groor</mask>
+      <mask>*Test.groory</mask>
+      <mask>*Test.grooy</mask>
+      <mask>*Test.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
