@@ -16,6 +16,7 @@
     <mask>*.scala</mask>
     <mask>*.conf</mask>
     <mask>*Dto.scala</mask>
+    <mask>*Api.java</mask>
     <mask>pom.xml</mask>
   </component>
 </application>
