@@ -13,4 +13,7 @@
       </list>
     </option>
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/dev/reps/gpb-eco/account-reservation-request-service" />
+  </component>
 </application>
