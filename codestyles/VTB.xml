@@ -1,4 +1,7 @@
 <code_scheme name="VTB" version="173">
+  <CsvCodeStyleSettings>
+    <option name="SEPARATOR_INDEX" value="1" />
+  </CsvCodeStyleSettings>
   <GroovyCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="55" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="33" />
