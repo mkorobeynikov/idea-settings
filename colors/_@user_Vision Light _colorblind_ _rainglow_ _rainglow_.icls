@@ -4,12 +4,12 @@
     <property name="created">2018-12-13T16:04:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2018-12-14T14:29:36</property>
+    <property name="modified">2019-02-08T14:33:17</property>
     <property name="originalScheme">Vision Light (colorblind) (rainglow) (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
@@ -204,7 +204,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4b1717" />
+        <option name="BACKGROUND" value="e2e2e2" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -848,7 +848,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="597f5f" />
+        <option name="BACKGROUND" value="8fc49a" />
       </value>
     </option>
     <option name="Enum name">
