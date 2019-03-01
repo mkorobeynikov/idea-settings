@@ -1,6 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
-    <notification groupId="gerrit" shouldLog="false" />
+    <notification groupId="Checkstyle IDEA Alerts" shouldLog="false" />
   </component>
 </application>
