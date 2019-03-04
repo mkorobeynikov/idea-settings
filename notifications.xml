@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Checkstyle IDEA Alerts" shouldLog="false" />
+  </component>
+</application>
