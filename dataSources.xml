@@ -20,11 +20,5 @@
         <property name="v$session.program" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="ib@localhost" uuid="e183882d-9da0-442b-9ec3-77db984c60c2">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/ib</jdbc-url>
-    </data-source>
   </component>
 </application>
