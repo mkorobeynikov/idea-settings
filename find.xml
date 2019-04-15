@@ -20,5 +20,6 @@
     <mask>*Api.java</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*Accum*</mask>
   </component>
 </application>
