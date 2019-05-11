@@ -25,7 +25,7 @@
       <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
-      <jdbc-url>jdbc:oracle:thin:@localhost:32789:XE</jdbc-url>
+      <jdbc-url>jdbc:oracle:thin:@localhost:32793:XE</jdbc-url>
       <driver-properties>
         <property name="v$session.program" value="DataGrip" />
       </driver-properties>
