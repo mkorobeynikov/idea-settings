@@ -5,10 +5,10 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -18,8 +18,9 @@
     <mask>*.conf</mask>
     <mask>*Dto.scala</mask>
     <mask>*Api.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*Accum*</mask>
+    <mask>pom.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
