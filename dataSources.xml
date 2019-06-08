@@ -40,11 +40,11 @@
         <property name="v$session.program" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="postgres@192.168.1.240" uuid="79dcc904-9b98-45b6-ac22-958f4ca04e15">
+    <data-source source="LOCAL" name="cryptoboot@192.168.1.240" uuid="79dcc904-9b98-45b6-ac22-958f4ca04e15">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://192.168.1.240:5432/cryptoboot</jdbc-url>
     </data-source>
   </component>
 </application>
