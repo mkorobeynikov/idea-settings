@@ -10,26 +10,6 @@
         <property name="v$session.program" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="@cicd.gpbeco.tech" uuid="e3dd319f-2826-488c-b557-67cf2df0f6b4">
-      <driver-ref>oracle</driver-ref>
-      <synchronize>true</synchronize>
-      <auto-commit>false</auto-commit>
-      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
-      <jdbc-url>jdbc:oracle:thin:@cicd.gpbeco.tech:1521:XE</jdbc-url>
-      <driver-properties>
-        <property name="v$session.program" value="DataGrip" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="@localhost tests" uuid="4d1ba0f3-ab24-488c-ac95-e849a45a4c2d">
-      <driver-ref>oracle</driver-ref>
-      <synchronize>true</synchronize>
-      <auto-commit>false</auto-commit>
-      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
-      <jdbc-url>jdbc:oracle:thin:@localhost:32798:XE</jdbc-url>
-      <driver-properties>
-        <property name="v$session.program" value="DataGrip" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="@sandbox jtc ooo" uuid="fce2d257-3477-4215-aae2-6660f07f7e3a">
       <driver-ref>oracle</driver-ref>
       <synchronize>true</synchronize>
@@ -45,6 +25,16 @@
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://192.168.1.240:5432/cryptoboot</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="release.jtc.ooo" uuid="eecbc0e8-d9ba-41ee-b6f1-8ade2600978b">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@release.jtc.ooo:1521:XE</jdbc-url>
+      <driver-properties>
+        <property name="v$session.program" value="DataGrip" />
+      </driver-properties>
     </data-source>
   </component>
 </application>
