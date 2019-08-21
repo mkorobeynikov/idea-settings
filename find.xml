@@ -19,5 +19,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
