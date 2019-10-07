@@ -1,8 +1,8 @@
 <scheme name="Solarized Light (Alternate)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="eee8d5" />
@@ -13,7 +13,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="eee8d5" />
     <option name="SELECTED_INDENT_GUIDE" value="586e75" />
     <option name="SELECTED_TEARLINE_COLOR" value="eee8d5" />
-    <option name="SELECTION_BACKGROUND" value="eee8d5" />
+    <option name="SELECTION_BACKGROUND" value="d6d0be" />
     <option name="SELECTION_FOREGROUND" value="586e75" />
     <option name="TEARLINE_COLOR" value="eee8d5" />
   </colors>
@@ -368,7 +368,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="eee8d5" />
+        <option name="BACKGROUND" value="c0baa7" />
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
