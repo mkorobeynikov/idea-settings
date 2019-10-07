@@ -19,7 +19,7 @@
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*Mapper.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
