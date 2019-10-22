@@ -18,7 +18,4 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/reps/self" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads/Telegram Desktop" />
-  </component>
 </application>
