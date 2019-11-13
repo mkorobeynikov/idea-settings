@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.jtc.ooo" />
+          <token>df98dfc8df92df93dfcedfcbdf9adfccdfcedf98df99dfccdfcedf99dfcedfccdf9fdf98df9edfcbdf93df9fdfc8dfcedfcedf9fdf9adfcfdf9edf98df9edf9bdf93df9cdf92df9ddf9cdf9cdfc8df9c</token>
+          <option name="name" value="JTC SonarQube" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
