@@ -18,11 +18,11 @@
     <mask>*Dto.scala</mask>
     <mask>*Api.java</mask>
     <mask>*Accum*</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*Mapper.java</mask>
     <mask>*Test.java</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
