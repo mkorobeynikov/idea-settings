@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="GPBECO-5309 - CR. BE: ЭФ Документы. Изменить массив значение на одно значение" />
+    <option name="defaultScopeName" value="GPBECO-5309 - CR. BE: ЭФ Документы. Изменить массив значение на одно значение" />
+    <option name="SEARCH_SCOPE" value="GPBECO-5309 - CR. BE: ЭФ Документы. Изменить массив значение на одно значение" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
