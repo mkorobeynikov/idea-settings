@@ -30,9 +30,13 @@
           <option name="url" value="http://gerrit.jtc.ooo" />
           <option name="userName" value="deploy" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://deploy@gerrit.jtc.ooo/a/gpbeco-be-ms-file-storage-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev/reps/gpbeco-self" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/reps/jtc_dev" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
