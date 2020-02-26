@@ -1,9 +1,20 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
     <option name="excludedRules">
       <set>
         <option value="squid:S2755" />
       </set>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.gboteam.ru" />
+          <token>dfcedf9fdfc9dfc9df9adfcedfcbdfcbdfcfdfcbdf93df92df98df9cdf9ddfcfdf9cdfc8dfc8df9bdfccdfcfdf9fdf9bdf9fdf9fdfc9dfc8df9bdf93df98df99dfc9dfcedfcbdf92df9cdfcfdf9adf93</token>
+          <option name="name" value="gbo sonar" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
     </option>
   </component>
 </application>
