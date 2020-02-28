@@ -70,9 +70,13 @@
           <option name="url" value="ssh://git@bitbucket.gboteam.ru:7999/eco_be/ms-zipkin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://deploy@gerrit.jtc.ooo/a/gpbeco-be-ms-common-dictionary" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev/reps/gpbeco-self" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/reps/jtc_dev" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
