@@ -28,5 +28,12 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@sandbox.gboteam.ru:1521:XE</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="release.gboteam.ru" uuid="81f10bd5-29e0-496c-97de-5f10f84eb620">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@release.gboteam.ru:1521:XE</jdbc-url>
+    </data-source>
   </component>
 </application>
