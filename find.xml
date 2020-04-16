@@ -1,17 +1,17 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="GBO-421 - Merge ЛК ВЭД и О2+ в 10.0.1 (ЦО + 9.3.0)" />
+    <option name="defaultScopeName" value="GBO-421 - Merge ЛК ВЭД и О2+ в 10.0.1 (ЦО + 9.3.0)" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="GBO-421 - Merge ЛК ВЭД и О2+ в 10.0.1 (ЦО + 9.3.0)" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
