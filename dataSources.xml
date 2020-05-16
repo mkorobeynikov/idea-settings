@@ -7,7 +7,7 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@localhost:1521:XE</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="sandbox.gboteam.ru" uuid="88c36571-9636-4266-ac19-ab848910c09a">
+    <data-source source="LOCAL" name="sandbox.gboteam.ru" check-outdated="false" uuid="88c36571-9636-4266-ac19-ab848910c09a">
       <driver-ref>oracle</driver-ref>
       <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>
