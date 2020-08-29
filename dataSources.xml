@@ -28,5 +28,12 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@stage.gboteam.ru:1521:XE</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="Oracle - @localhost [2]" uuid="c88b377a-6af4-4f80-9130-fc8a35709235">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1522:XE</jdbc-url>
+    </data-source>
   </component>
 </application>
